@@ -25,22 +25,5 @@ https://tools.netsa.cert.org/yaf/install.html
 python main.py flows.yaf
 ```
 
-> Make sure a matching `.yaf.txt` file exists or is generated for top-5 summary analysis.
-
-## Example Output
-
-```
-Found 64 flows
-
-192.168.1.5:443 -> 8.8.8.8:53
-...
-
-Top 5 Source Addresses:
-192.168.1.5: 50 flows
-...
-
-Top 5 Destination Ports:
-443: 40 flows
-...
-```
+[[Capture :) (https://github.com/Ahmed0or1/Yaf_Reader/blob/main/Capture.PNG?raw=true)]
 
