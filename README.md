@@ -25,5 +25,5 @@ https://tools.netsa.cert.org/yaf/install.html
 python main.py flows.yaf
 ```
 
-[[Capture :) (https://github.com/Ahmed0or1/Yaf_Reader/blob/main/Capture.PNG?raw=true)]
+[[]) (https://github.com/Ahmed0or1/Yaf_Reader/blob/main/Capture.PNG?raw=true)]
 
